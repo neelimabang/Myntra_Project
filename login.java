@@ -1,9 +1,8 @@
-class add
+class addition
 {
-static int a=1, b=2, c;
+static int a=1, b=2, c=a+b;
 public static void main(String[] neelima)
 {
-c=a+b;
 System.out.println("the value of c is:"+c);
 }
 }
